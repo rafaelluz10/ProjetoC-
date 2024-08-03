@@ -1,0 +1,10 @@
+C:\Users\Laboratorio-Info\Documents\Visual Studio 2019\EmpresaABC\Teste\bin\Debug\Teste.exe.config
+C:\Users\Laboratorio-Info\Documents\Visual Studio 2019\EmpresaABC\Teste\bin\Debug\Teste.exe
+C:\Users\Laboratorio-Info\Documents\Visual Studio 2019\EmpresaABC\Teste\bin\Debug\Teste.pdb
+C:\Users\Laboratorio-Info\Documents\Visual Studio 2019\EmpresaABC\Teste\obj\Debug\Teste.csproj.AssemblyReference.cache
+C:\Users\Laboratorio-Info\Documents\Visual Studio 2019\EmpresaABC\Teste\obj\Debug\Teste.Properties.Resources.resources
+C:\Users\Laboratorio-Info\Documents\Visual Studio 2019\EmpresaABC\Teste\obj\Debug\Teste.csproj.GenerateResource.cache
+C:\Users\Laboratorio-Info\Documents\Visual Studio 2019\EmpresaABC\Teste\obj\Debug\Teste.csproj.CoreCompileInputs.cache
+C:\Users\Laboratorio-Info\Documents\Visual Studio 2019\EmpresaABC\Teste\obj\Debug\Teste.exe
+C:\Users\Laboratorio-Info\Documents\Visual Studio 2019\EmpresaABC\Teste\obj\Debug\Teste.pdb
+C:\Users\Laboratorio-Info\Documents\Visual Studio 2019\EmpresaABC\Teste\obj\Debug\Teste.frmSplash.resources
